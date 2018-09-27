@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Mi firma HTML</title>
+</head>
+
+<link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet" type="text/css">
+
+
+
+<!-- 3. 'Master' Styling -->
+<table style=" 
+    background-color: #fff;
+    font-family: Dosis;
+    text-align: left;
+    color: #000;
+    font-size: 14px;
+    line-height: 21px;
+    padding: 10px 40px;">
+<tbody>
+
+<!-- 4. The Logo -->
+ <tr>
+    <td rowspan="6" style="width:30%; padding-right:20px;"><a href="www.puddleducking.com"><img src="https://imgur.com/Qh5FDP8.png" width="300px"></a></td>
+
+<!-- 5. The Contact Details -->
+    <td colspan="5" style="padding-top: 40px; font-size: 25px; font-family:DOSIS;"><b>C A R L O S &nbsp Á N G E L E S</b></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding-bottom: 10px; padding-top: 10px;font-size:22px;" >G E R E N T E &nbsp G E N E R A L</td>
+  </tr>
+  <tr>
+    <td colspan="5"style="font-size:22px;">9 8 6 6 4 2 3 3 0 </td>
+  </tr>
+  <tr>
+    <td colspan="5">c a r l o s @ a n g e l e s e v e n t o s . c o m</td>
+  </tr>
+
+<!-- 6. Social Icons -->
+    <tr>
+    <td style="padding-top: 15px; padding-right: 10px; font-size:15px;"> <a href="https://www.pinterest.co.uk/">w e b</a></td>
+    <td style="padding-top: 15px; padding-right: 10px; font-size:15px;"> <a href="https://www.pinterest.co.uk/">f a c e b o o k</td>
+     <td style="padding-top: 15px; padding-right: 10px; font-size:15px;"> <a href="https://www.pinterest.co.uk/">i n s t a g r am</td>
+    <td></td>
+  </tr>
+</table>
+
+
+</table>
+</hmtl>
